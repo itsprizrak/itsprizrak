@@ -38,7 +38,7 @@ Created a dashboard using **AWS + Python + Google Maps API** to track BLE-enable
 ## 💡 Fun Facts & Interests
 
 - 🧰 I love **reverse engineering** old hardware and weird sensor modules  
-- 💬 Often contributing or testing **open-source embedded libraries**  
+- 💬 Often testing **open-source embedded libraries**  
 - 🔭 Exploring the world of **Embedded AI**
 - 💡 Inspired by **automation, signal processing, and low-power design**
 
@@ -56,7 +56,7 @@ Created a dashboard using **AWS + Python + Google Maps API** to track BLE-enable
 
 - STM32CubeIDE, PlatformIO, Arduino IDE  
 - VS Code, KiCad  
-- Git, GitHub Actions, AWS Lambda  
+- Git, GitHub Actions, AWS  
 
 ---
 
