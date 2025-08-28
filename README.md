@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **itsprizrak**
+# 👋 Hi, I’m **Mahesh P S**
 
 **🔧 Embedded Systems Developer | 🧪 Real-world Sensor Applications Enthusiast**
 
